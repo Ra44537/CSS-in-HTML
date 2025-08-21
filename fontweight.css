@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration:  red underline;
+    letter-spacing: 5px;
+    font-family: Arial ;
+}
+h3{
+    text-align: start;
+    text-decoration: red line-through;
+
+}
+p{
+    font-weight: 400; 
+    text-decoration:  blue overline;
+    line-height: 2.5;
+    font-size: 50px;
+    font-family: impact ;
+
+}
+h2{
+    font-weight: 400;
+    text-decoration:  blue overline;
+    
+    
+}
+ a{
+    text-decoration: none ;
+ }
